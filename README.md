@@ -1,6 +1,6 @@
-#My first GIT README file
+# My first GIT README file
 
-##Installation
+## Installation
 
 ```
 pip install Flask
@@ -8,8 +8,8 @@ python app.py
 
 ```
 
-##Description
+## Description
 
-##Implementation
+## Implementation
 
 This project is implemented using Flask, and is a REST API for a store
